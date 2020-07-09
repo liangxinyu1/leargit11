@@ -3,3 +3,5 @@ git a free software.
 git has a motobal.
 my stupid boss prefers svn.
 creating a new branch is quick
+apple is red & big
+
