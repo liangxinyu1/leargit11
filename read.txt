@@ -2,3 +2,4 @@ git is a version control system.
 git a free software.
 git has a motobal.
 my stupid boss prefers svn.
+creating a new branch is quick
